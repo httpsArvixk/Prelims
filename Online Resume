@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arvick Mercado - Resume</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f3f5;
+            color: #000000;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        header {
+            background-color: #8fe9f5;
+            color: rgb(0, 0, 0);
+            text-align: center;
+            padding: 30px;
+            border-radius: 8px 8px 0 0;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+            font-weight: bold;
+        }
+        header p {
+            margin: 5px 0;
+            font-size: 1.1em;
+        }
+        section {
+            background-color: #fff;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+            box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #000000;
+            font-size: 1.8em;
+            margin-bottom: 15px;
+            border-bottom: 2px solid #e0e0e0;
+            padding-bottom: 5px;
+        }
+        p, ul {
+            font-size: 1.1em;
+            margin: 10px 0;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        li strong {
+            font-size: 1.1em;
+        }
+        li ul {
+            margin-top: 5px;
+            list-style-type: disc;
+            padding-left: 20px;
+        }
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            padding: 15px 0;
+            color: #7f8c8d;
+            font-size: 0.9em;
+            border-top: 1px solid #e0e0e0;
+        }
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 2em;
+            }
+            section {
+                padding: 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <h1>Arvick Mercado</h1>
+        <p>594 Sta.Lucia, Pinagbarilan, Baliwag, Bulacan</p>
+        <p>Contact no: 0915-374-1727 | Email: arvickmercado@gmail.com</p>
+    </header>
+
+    <section>
+        <h2>Objective</h2>
+        <p>As a dedicated IT student with hands-on experience in web development and software solution development, I am interested in making my technical skills practical, applied to system analysis and design as well as development. Strong understanding of programming, database management, and some project management aspects. Strong ability to create and optimize web-based systems; interested in joining the dynamic team while trying at every step to grow professionally in the IT field.</p>
+    </section>
+
+    <section>
+        <h2>Personal Information</h2>
+        <ul>
+                    <li><strong>Date of Birth:</strong> September 22, 2003</li>
+                    <li><strong>Place of Birth:</strong> Baliwag, Bulacan</li>
+                    <li><strong>Age:</strong> 20 years old</li>
+                    <li><strong>Height:</strong> 5'6</li>
+                    <li><strong>Weight:</strong> 55 kg</li>
+                    <li><strong>Religion:</strong> INC</li>
+                    <li><strong>Citezenship:</strong> Filipino</li>
+                    <li><strong>Civil Status:</strong> Single</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Educational Background</h2>
+        <ul>
+            <li><strong>Bachelor of Science in Information Technology</strong> - Baliwag Polytechnic College (BTECH)(2021 - Present)</li>
+            <li><strong>Senior High School</strong> - Baliwag Polytechnic College (BTECH) (2019 - 2021)</li>
+            <li><strong>Junior High School</strong> - Mariano Ponce National High School (MPNHS) (2015 - 2019)</li>
+            <li><strong>Elementary School</strong> - Baliwag North Central School (BNCS) (2009 - 2015)</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li><strong>Technical Skills:</strong></li>
+            <li>-Programming Languages: HTML, CSS, JavaScript, PHP, Python, Java</li>
+            <li>-Database Management: MySQL, MongoDB, PostgreSQL</li>
+            <li>-Web Development: Full-stack development, RESTful APIs, responsive design</li>
+            <li>-Software Development: Object-oriented programming, version control (Git), Agile methodology</li>
+            <br>
+            <li><strong>Soft Skills:</strong></li>
+            <li>-Problem-solving and critical thinking</li>
+            <li>-Team collaboration and communication</li>
+            <li>-Time management and organization</li>
+            <li>-Flexible and goal oriented</li>
+            <li>-Adaptability and quick learning</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Languages</h2>
+        <ul>
+            <li>English - Fluent</li>
+            <li>Filipino - Native</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; Arvick Mercado. All rights reserved (2024).</p>
+    </footer>
+</div>
+
+</body>
+</html>
